@@ -1,0 +1,5 @@
+---
+# tasks file for nfs-server
+
+- name: Utipme
+  shell: uptime

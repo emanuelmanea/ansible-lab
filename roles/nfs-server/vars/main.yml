@@ -1,0 +1,9 @@
+---
+# vars file for nfs-server
+
+packages:
+  tcpdump
+  bash-completion
+  nfs-utils
+  emacs-nox
+  

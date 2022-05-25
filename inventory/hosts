@@ -1,0 +1,6 @@
+all:
+  hosts:
+    nfs:
+      ansible_host: 192.168.178.51
+      ansible_ssh_user: root
+
